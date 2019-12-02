@@ -1,3 +1,4 @@
 pepperoni
 sausage
 ham
+anchovies
